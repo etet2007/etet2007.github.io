@@ -4,7 +4,7 @@ title:      "Android Plugin for Gradle & Gradle"
 subtitle:   "关于Android Plugin for Gradle & Gradle ，如何解决开启项目卡死"
 date:       2017-11-01
 author:     "StephenLau"
-header-img: "imgpost-bg-android.jpg"
+header-img: "img/post-bg-android.jpg"
 tags:
 - Android
 - Gradle
