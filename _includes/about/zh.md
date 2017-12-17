@@ -1,12 +1,12 @@
 内向 完美主义
 
-旅游 摄影 动漫 篮球 电子产品（索粉 魅友 果黑）
+旅游 摄影 动漫 篮球 电子产品
 
-Java C++ Objective-C Swift    Image processing
+Java  C++  Objective-C  Image processing
 
-永远在寻找生存的意义。
+永远在寻找生存的意义
 
-
+INFJ
 
 > 喜欢独处，性格复杂，有深度，是独立的思考者。你忠诚、有责任心，喜欢解决问题，通常在认真思考之后行动。你在同一时间内只专注一件事情。
 >
